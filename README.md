@@ -1,4 +1,14 @@
-# vuex-ejemplo
+# Vuex Ejemplo
+
+In this small app, I test the vuex library for Vue.js
+
+**Demo:**
+
+### Dev tools used:
+
+> - HTML, CSS, Bootstrap Material 4
+> - ES6, Vue.js (transitions)
+> - vuex (states, mutations, actions, getters)
 
 ## Project setup
 ```
