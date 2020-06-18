@@ -2,7 +2,7 @@
 
 In this small app, I test the vuex library for Vue.js
 
-**Demo:**
+**Demo:** https://jleon253.github.io/vuex-ejemplo
 
 ### Dev tools used:
 
